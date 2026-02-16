@@ -160,7 +160,7 @@ Bookmarks are automatically categorized based on their domain. This helps you:
 ### Optimistic UI Updates
 The interface updates immediately when you perform an action, then syncs with the server in the background. This creates a snappy, responsive feel.
 
-## 🚢 Deployment - with Versel.
+## 🚢 Deployment - with Versel- https://flare-sigma.vercel.app/
 
 ## 👩‍💻 Author
 

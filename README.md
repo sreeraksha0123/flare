@@ -4,6 +4,8 @@
 
 Flare is a modern, enterprise-grade bookmark manager that helps you save, organize, and access your favorite links instantly. Built with Next.js and Supabase, it offers real-time synchronization, powerful search capabilities, and a beautiful dark-themed interface.
 
+live link - https://flare-sigma.vercel.app/
+demo link - https://www.loom.com/share/9038b6cd753f422b9004bd8dcebe1b0a
 ## ✨ Features
 
 ### Core Functionality
